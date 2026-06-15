@@ -1,5 +1,5 @@
 # 📊 Marketing Campaign Dashboard
-
+![Preview](image.png)
 ---
 
 ## 📁 Cấu trúc file
