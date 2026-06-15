@@ -56,11 +56,13 @@
 ## 🔍 Key Insights
 
 ### Hiệu suất theo kênh
-**→ Instagram Ads** có cost per conversion thấp nhất và ROAS cao nhất. **Influencer Marketing** dẫn đầu về avg ROI.
+
+→ Instagram Ads** có cost per conversion thấp nhất và ROAS cao nhất. **Influencer Marketing** dẫn đầu về avg ROI.
 ---
 
 ### Hiệu suất theo danh mục
-**→ Household** có ROAS cao nhất. **Personal Care** có avg ROI cao nhưng ROAS thấp — cần xem lại chiến lược upsell.
+
+→ Household** có ROAS cao nhất. **Personal Care** có avg ROI cao nhưng ROAS thấp — cần xem lại chiến lược upsell.
 ---
 
 ### Combo kênh × danh mục hiệu quả nhất (Avg ROI)
@@ -73,7 +75,7 @@
 | Google Ads | Personal Care 
 | Email Campaign | Snacks 
 
-**→ Nên ưu tiên scale budget** cho các combo này.
+→ Nên ưu tiên scale budget** cho các combo này.
 ---
 
 ## 📝 Ghi chú
