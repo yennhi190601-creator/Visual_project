@@ -1,4 +1,4 @@
-# 📊 Marketing Campaign Dashboard
+# 📊 Preview dashboard
 ![Preview](image.png)
 ---
 
